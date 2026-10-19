@@ -2,8 +2,8 @@
 Created in early 2022 as a personal passion project, Tremolo Clicker is a thread-safe, randomised auto clicker. It was developed with the intent of generating humanised delays between inputs, utilising a custom algorithm to bypass heuristic detection.
 
 ## Tech Stack
-**Language:** Python 3.x 
-**GUI Framework:** PyQt6 *
+**Language:** Python 3.x
+**GUI Framework:** PyQt6
 **OS Interfacing:** `pywin32` (win32api, win32con)
 
 ## Installation 
